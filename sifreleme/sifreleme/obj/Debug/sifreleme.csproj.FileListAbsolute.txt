@@ -1,0 +1,10 @@
+C:\Users\mehme\OneDrive\Masaüstü\sifreleme\sifreleme\bin\Debug\sifreleme.exe.config
+C:\Users\mehme\OneDrive\Masaüstü\sifreleme\sifreleme\bin\Debug\sifreleme.exe
+C:\Users\mehme\OneDrive\Masaüstü\sifreleme\sifreleme\bin\Debug\sifreleme.pdb
+C:\Users\mehme\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.csprojAssemblyReference.cache
+C:\Users\mehme\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.Form1.resources
+C:\Users\mehme\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+C:\Users\mehme\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.cache
+C:\Users\mehme\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.exe
+C:\Users\mehme\OneDrive\Masaüstü\sifreleme\sifreleme\obj\Debug\sifreleme.pdb
